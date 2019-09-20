@@ -1,0 +1,90 @@
+.logo{
+    object-position: center;
+    background-color: inherit;
+    align-items: center;
+    text-align: center;
+}
+.menu1{
+    width: auto;
+    background-color: burlywood;
+    /*border: 1px black solid;*/
+    text-align: end;
+}
+.slide1{
+    height: 400px !important; 
+    /*border: 2px black dashed;*/
+    margin-top: -30px;
+}
+.slideImg{
+    height:400px !important;
+    width: 1135px;
+}
+.slideImg2{
+    height:200px !important;
+    
+}
+.meal{
+    height: auto;
+    width: auto;
+    text-align: justify-all;
+    border: 1px burlywood ridge; 
+    border-width: thick;
+    padding: 0.5em;
+    text-align: justify;
+}
+.meal1 >h2{
+    text-align: center;
+}
+.meal1 >p{
+    font-size: 1.5em;
+}
+.tabs1{
+    height: auto;
+    width: auto;
+    text-align: justify-all;
+    
+}
+.tab1{
+    border: 1px black solid;
+    text-align: center;
+    padding: 0;
+}
+.tab1 >.btn1{
+    
+    margin-top: 0;
+}
+.slide2 >p{
+    position:relative;
+    top:-20px;
+}
+h4{
+    color: cyan;
+    position:relative;
+    top: 75px;
+}
+h5{
+    color:cyan;
+    position: relative;
+    top:80px;
+}
+.carousel-control-prev-icon{
+    background-color: forestgreen;
+}
+.carousel-control-next-icon{
+    background-color: forestgreen;
+}
+.bibleVerse {
+    color:deepskyblue;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.dyk >dt {
+    text-align: center;
+    font-size: 2em;
+    color: red;
+}
+.dyk >dd {
+    text-align:center;
+    color: darkred;
+    
+}
