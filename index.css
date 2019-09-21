@@ -1,0 +1,127 @@
+body {
+      color:darkslategrey;
+      background-color: azure;
+    font-family: sans-serif;
+    text-align: justify;
+     }
+.bibleVerse {
+    color: chocolate;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.logo{
+    float:left;
+    image-orientation: right;
+    
+}
+.article{
+   position: absolute;
+    width:70%;
+    /*float: left;
+    max-width: 70%;*/
+}
+.ads{
+    margin-left:945px;
+    width:29%; 
+    border-style: solid;
+    border-width:1px;
+    /*float:right;
+    max-width:30%;
+    border-style: solid;
+    border-width:1px;*/
+    
+}
+h1{
+    text-align: center;
+}
+h2{
+    font-family: Times, 'Times New Roman',serif;
+}
+.hd1{
+    
+}
+p{
+    font-size: 1.5em;
+    
+}
+a{
+    font-style: italic;
+}
+#dailyMealContainer{
+    border-style: ridge;
+    border-color:burlywood;
+    border-width: thick;
+    padding: 0.5em;
+    
+}
+#mealBreakdown{
+    font-size: 1em;
+}
+
+#didYouKnow{
+    font-family: cursive;
+    font-size: larger;
+    color: darkgoldenrod;
+}
+#reveal li{
+    
+    
+}
+ul{
+    
+}
+#foodMenu{
+    position:fixed;
+    left: 200px;
+    
+}
+#foodMenu li{
+    /*width:30%;*/
+    float:clear;
+    text-align: center;
+    margin-left: 0px;
+    display:inline;
+    border
+    
+    
+}
+#foodMenu li:hover{
+    background-color: cornflowerblue;
+}
+#foodMenu li a{
+    
+    text-decoration: none;
+    color: black;
+    
+}
+ol li{
+    display:inline-block;
+    position: 
+    width:40%;
+    text-align:justify;
+    background-color: aquamarine;
+    padding: 3px;
+    margin:20px 0px 20px 20px;
+    border-bottom: 1px dashed black;
+    border-left: 10px solid green;
+}
+.copyRight{
+    font-weight:bold;
+    font-size: 0.8em;
+    text-align: center;
+    padding-top: 1em;
+    margin-top: 470px;
+    line-height: 
+.clear{
+    clear: both;
+}
+OL.withUpperRoman{list-style-type:upper-roman}
+OL.withUpperAlpha{list-style-type:upper-alpha}
+OL.withUpperLatin{list-style-type:upper-latin}
+OL.withLowerRoman{list-style-type:lower-roman}
+OL.withLowerAlpha{list-style-type:lower-alpha}
+OL.withLowerLatin{list-style-type:lower-latin}
+tr.tablFoot {
+    text-align: center;
+    color: black
+        }
